@@ -1,0 +1,25 @@
+.header {
+  transition: all 0.5s;
+  z-index: 997;
+  height: 60px;
+  box-shadow: 0px 2px 20px rgb(1 41 112 / 10%);
+  background-color: #fff;
+  padding-left: 20px;
+}
+
+.nav {
+  display: block;
+}
+.ms-auto {
+  margin-left: auto;
+}
+
+.header-nav ul {
+  list-style: none;
+}
+
+.logo {
+  color: #f07e3a;
+  font-weight: bold;
+  font-size: x-large;
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Logo",
+  "productType": [
+    { "id": "p1", "name": "AmbujaCement" },
+    { "id": "p2", "name": "ACC Cement" },
+    { "id": "p3", "name": "Birla white Cement" },
+    { "id": "p4", "name": "Prism Cement" }
+  ]
+}

@@ -1,0 +1,15 @@
+.footer {
+  padding: 20px 0;
+  font-size: 14px;
+  transition: all 0.3s;
+  color: #ffffff;
+  background-color: #444444;
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  #main,
+  #footer {
+    margin-left: 300px;
+  }
+}
